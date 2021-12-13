@@ -8,7 +8,7 @@ public class git {
         System.out.println("hello,git4!");
         System.out.println("master test!");
         System.out.println("hot-fix,test!");
-        System.out.println("hello push gitHub");
-        System.out.println("hello pull gitHub");
+        System.out.println("hello push gitHub !");
+        System.out.println("hello pull gitHub !");
     }
 }
